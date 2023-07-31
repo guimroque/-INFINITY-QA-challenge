@@ -1,6 +1,4 @@
-# Q.A. Challenge 20211029
-
-Por favor, complete o seguinte desafio para seguir com a sua candidatura. Você deverá documentar o seu processo e apresentá-lo em um vídeo (utilizando um PowerPoint ou apresentação semelhante), bem como demonstrar o resultado.
+# Q.A. Challenge
 
 ## Desafio
 
